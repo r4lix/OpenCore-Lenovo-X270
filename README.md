@@ -1,6 +1,8 @@
-# OpenCore-Lenovo-X270
-This repo contains the files and scripts to install macOS Ventura on the Lenovo X270 20K5 You need to patch your systems own DSDT.
-SMBIOS : MacBookPro14.1 (MacBook Pro Retina, 13-inch, Mid-2017)
+# OpenCore-Lenovo-X270  
+This repo contains the files and scripts to install macOS Ventura on the Lenovo X270 20K5  
+You need to patch your systems own [DSDT](https://dortania.github.io/Getting-Started-With-ACPI/ssdt-methods/ssdt-methods.html).  
+SMBIOS : MacBookPro14.1 (MacBook Pro Retina, 13-inch, Mid-2017)  
+
 ![X270](X270.png)
 
 # Update History
