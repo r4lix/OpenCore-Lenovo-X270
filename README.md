@@ -10,7 +10,7 @@ SMBIOS : MacBookPro14.1 (MacBook Pro Retina, 13-inch, Mid-2017)
 - [x] macOS 12.2
 - [x] macOS 13.0
 - [x] macOS 13.4
-- [x] macOS 13.6.6
+- [x] macOS 13.6.6 (22G630)
 
 # Laptop's Hardware
 - <b>Model</b>: Thinkpad X270
